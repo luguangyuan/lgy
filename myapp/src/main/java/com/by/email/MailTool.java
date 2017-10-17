@@ -54,5 +54,6 @@ public class MailTool {
 	    transport.close();*/
 		  System.out.println();
 		  System.out.println("luguangyuan");
+		  System.out.println("luguangyuan");
 	  }
 }
