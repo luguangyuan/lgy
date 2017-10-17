@@ -53,5 +53,6 @@ public class MailTool {
 	    transport.sendMessage(msg, new Address[] { new InternetAddress("984458235@qq.com") });
 	    transport.close();*/
 		  System.out.println();
+		  System.out.println("luguangyuan");
 	  }
 }
